@@ -29,13 +29,9 @@ To be able to actually run and test a development version, you need to be a deve
 -   Install Docker Desktop for Windows
 -   Install VSCode
 -   Open VSCode
--   Install the [Dev Containers](https://github.com/sfsd-1/overwolf-homeassistant-webhook-dota2/releases/tag/overwolf) extension
+-   Install the [OverWolf](https://github.com/sfsd-1/overwolf-homeassistant-webhook-dota2/releases/tag/overwolf) extension
 -   Open the project in the remote container
--   You need to run either `npm install` or the VSCode task `Install dependencies` to install the dependencies
 
-### Build the application
-
--   Run the VSCode task `Build` (`CTRL + Shift + B` or `CMD + Shift + B` by default)
 
 ### Test it
 
