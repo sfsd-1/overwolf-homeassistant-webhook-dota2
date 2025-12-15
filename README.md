@@ -1,7 +1,5 @@
 # overwolf-homeassistant-webhook-dota2
 Overwolf App 
-# overwolf-homeassistant-webhook
-
 Send game events from overwolf to Home Assistant.
 
 ## Disclaimer
